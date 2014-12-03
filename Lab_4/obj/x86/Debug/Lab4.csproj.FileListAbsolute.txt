@@ -1,0 +1,18 @@
+C:\Users\Hytham\Downloads\Lab4 - Start\Lab4 - Start\bin\Debug\Lab4.exe
+C:\Users\Hytham\Downloads\Lab4 - Start\Lab4 - Start\bin\Debug\Lab4.pdb
+C:\Users\Hytham\Downloads\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\Hytham\Downloads\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.Form1.resources
+C:\Users\Hytham\Downloads\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.Properties.Resources.resources
+C:\Users\Hytham\Downloads\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\Hytham\Downloads\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.exe
+C:\Users\Hytham\Downloads\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.pdb
+C:\Users\student\Desktop\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.exe
+C:\Users\student\Desktop\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.pdb
+C:\Users\student\Desktop\Lab4 - Start\Lab4 - Start\bin\Debug\Lab4.exe
+C:\Users\student\Desktop\Lab4 - Start\Lab4 - Start\bin\Debug\Lab4.pdb
+C:\Users\student\Desktop\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.Form1.resources
+C:\Users\student\Desktop\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.Properties.Resources.resources
+C:\Users\student\Desktop\Lab4 - Start\Lab4 - Start\obj\x86\Debug\Lab4.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Lab4\obj\x86\Debug\Lab4.exe
+C:\Users\student\Desktop\Lab4\obj\x86\Debug\Lab4.pdb
